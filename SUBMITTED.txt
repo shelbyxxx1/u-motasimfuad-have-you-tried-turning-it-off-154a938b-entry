@@ -1,0 +1,8 @@
+submission: 01a21267-4b2a-709c-91cb-d64a842dd2a0
+competition: u-motasimfuad-have-you-tried-turning-it-off-154a938b
+commit: f42d1eb94beb32b7f7273acd0ef32f772ecc3700
+codex sessions: 01a21257-1598-7b32-85a4-c7d21c2e4a90 (init) + 01a21257-4e20-7442-b009-eeb676172552 (build+revise) — Codex 0.80.0 + gpt-6.1-sol via run-codex-old.py; astra 404
+bundle sha256: b276eba74ccc23c7d9b29b59daf7d6bffe1344b8d822edcbca6c0c47bcc99118
+entry: "Good news: I recovered the email where we promised not to lose your files." (74 chars)
+kit check: 16 passed / 0 failed / 5 skipped
+owner view 2026-11-25 ~18:15 WIB: stage submitted, grading queued
